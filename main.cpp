@@ -4,7 +4,7 @@
 using namespace std;
 
 #include "joc.h"
-#include "world.h"
+#include "lume.h"
 
 int main() {
     srand(time(NULL));
